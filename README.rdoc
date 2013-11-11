@@ -19,9 +19,9 @@ Or install it yourself as:
 
 = Usage
 
-Just render Pagination with default theme like this:
+Just render Pagination with the theme 'bootstrap' like this:
 
-    = paginate @posts
+    = paginate @posts, theme: 'bootstrap'
 
 = Contributing
 

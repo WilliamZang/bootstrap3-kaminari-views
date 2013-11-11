@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/WilliamZang/bootstrap3-kaminari-views"
   spec.license       = "MIT"
 
-  spec.files         = Dir['{app,config,db,lib}/**/*'] + %w(LICENSE.txt Rakefile README.rdoc)
+  spec.files         = Dir['{app,config,db,lib}/**/*'] + %w(MIT-LICENSE Rakefile README.rdoc)
 
   spec.add_dependency 'rails', '~> 4.0.0'
   spec.add_dependency 'kaminari'
